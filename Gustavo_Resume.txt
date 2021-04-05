@@ -1,0 +1,111 @@
+GUSTAVO PISANI
+Richmond, TX 									     gpisanic@mac.com
+918-914-3622 								linkedin.com/in/gustavopisani
+
+DATA SCIENTIST AND SUPPLY CHAIN SPECIALIST
+
+A Data Scientist and Supply Chain domain expert sharing a vision of digital transformation, building capacities, workflows, and leading organizations to advance in the changing technological landscape toward a data-based management model. Degrees and certifications in AI, Mechanical Engineering, SAP Materials Management Consultant, and ISO Lead Auditor. Capacities in Azure, Foundry, Dataiku, SAP Cloud Appliance Library, provision of resources, stream analytics, IoT Hub, and Power BI insights visualization and distribution. A polyglot Digital and Data Diplomacy expert inspiring teams from data provision to data consumption on virtual infrastructures where workflows create value in a sustainable way.
+ISO 9000 Lean Management, ISO C9X, ISO/IEC 20000-1 SMS.
+
+KEY SKILLS
+
+* Highly specialized freelance author
+* Responsible for data strategy implementation
+* Collaborative leader and team member in digital transformation efforts
+* Innovating in conception, design, testing, sourcing, compliance, contracting and safe operation of an International relief supply chain
+* Negotiating commercial terms with vendors
+* Providing metrics and analytics to monitor and improve a global P2P process
+
+EXPERIENCE
+
+Free Lance, Richmond, TX							  04/2021 – To present
+Free Lance – Digital Transformation Content Generation
+* A highly specialized freelance author creating DX bilingual content for various customers on Data Science and Supply Chain most relevant topics and the impact of disruptive technologies on new ways of working,i.e. XR. 
+* Building digital capacities via Data Science for All (DSXA) program in an open-source format and depository at gpisanic/Data-Science-Divulgation-Project (github.com)
+* Contributing with different student associations for divulgation of Data Science topics in plain language to close the digital gap with master class and posts.
+* Supporting digital literacy efforts in Venezuela via Python from scratch educational program 
+
+
+BP, Houston, TX 								        06/2016 – 03/2021
+Materials Management Advisor, 10/2019 – 03/2021
+* Responsible for Materials Management Data provision, ingestion, transformation, and delivery via Data Gateways on virtual infrastructures connecting source to consumers, supporting BP vision to become a digital leader. 
+* Leading data science-based projects starting with a diverse set of problem framing such as Zero Inventory Mindset, Material Service Improvement, and International Trade Regulations initiatives to quickly align team members. 
+* Responsible for data strategy implementation, integration with Category Data and testing, i.e. Data Lake, Azure SQL DB direct query, Gateway while building capacities with a global training program developed in my spare time called “Python from scratch” aimed to close the digital gap.
+* Solving technological and process problems by aligning resources to new tools with unprecedent solutions, resulting in automated workflows with a clear roadmap to continue evolution to model training and AI supported products.
+* Actively pursuing full reporting automation, AI based materials positive identification, and data twin alignment with digital supply chain, XR applications while providing internal support to a diverse stakeholder audience.
+
+Inventory Specialist, 06/2016 – 09/2019
+* Responsible for Big Data vision in Inventory Management, supporting BP global regions on Inventory Management data requirements, from modelling, querying and extraction to emergency material requests per current Zero Inventory mindset resulting in consistent double percent digit reduction few years in a row. 
+* Responsible for data strategy implementation, integration with Category Data and testing, i.e. Data Lake, Azure SQL DB direct query, Gateway, active participation on IM discipline calls on data topics.
+
+
+Gustavo Pisani 										         Page Two
+
+* Creativity and problem solving via technological tools such as Job Scheduling, mock up on Spotfire, Report automation on Business Object and Power BI data models with emphasis in Supply Chain digitization while leveraging available functionality not used before.
+* Actively pursuing report auto generation and scheduled distribution based on data streaming for delivery to a leadership audience on available IT platforms, including mobiles.
+
+Free Lance, Richmond, TX								      2015 - 2016
+Free Lance - Supply Chain Content Generation
+* A highly specialized freelance author creating UX driven bilingual content for various customers on Supply Chain most advanced topics and the impact of disruptive technologies on people, process and tools. 
+* Process Optimization via cognitive forecasting, tasks automation based on Artificial Intelligence, learning robots for Warehousing activities and autonomous transport platforms for delivery, green logistics and drone delivery impact on value chain. Articles available in Pulse Linkedin and other bilingual publication & social media.
+* Responsible for a relief supply chain operation (12k pounds per year) delivering retail category items (food, medicines & general supply) to families in need by the humanitarian de facto crisis in Venezuela.
+* Innovating in conception, design, testing, sourcing, compliance, contracting and safe operation of an International relief supply chain to ensure resilience of the operation under severe circumstances, with the mission to restore capacity to cope and preventing loss of lives.
+
+Statoil, Houston, TX									      2012 - 2015
+Senior Supply Chain Consultant, 4/2014 - 10/2015
+* Providing oversight of MM integration with PM for Asset Integrity, PS for WBS management and FI-CO for master data, cost objects and business rules alignment. Gathering requirements, performing fit-gap analysis, benchmarking, defining the service concept and options to sustain the operations, master data strategy development, supporting account mapping for automatic posting, integrating valuation functionality (split valuation and FIFO), conceiving business scenarios, developing testing scripts, documenting business processes.
+* Responsible to provide Materials Management expertise to the SCM MM project ($10 MM) in key categories with specific commercial strategies, i.e. OCTG, MRO for US onshore unconventional assets (Bakken, Eagle Ford and Marcellus), and integration with the Plant Maintenance function, SAP PM, Asset Integrity (ISO 55000), Sales & Distribution for asset disposal, SAP Smart Technology, Standardization, Master Data, SPIR and logistics flow. 
+* Responsible for big data extraction via SE16 tables, SQVI queries and BW (Bex,Netweaver) customized queries for analytics and value creation for enterprise and requirement analysis leading to solutions, savings and improvements for key categories.
+* Elevating the assessment for a Materials Management solution for the onshore assets required a superior degree of logistics knowledge to align otherwise disparate legacy processes. Benefit in capping the length of discussion and pulling forward for approval on the Capital Project Gates decision by three months.
+* Expanding the concept of design of the Materials Management to-be processes that faced conflicting cultures in three different assets. The adequate incorporation of sustainability relevant aspects, e.g. NORM, pushed the decision through by taking the discussions to a different level. Benefit on containing the risk of lack of compliance and related fines – up to $10K per occurrence and reputation damages.
+* Conceiving the solution for the new SAP requirements to comply with JV agreements and corporate policies required additional external consultant to provide for it. Split Valuation (based on material condition), FIFO and Asset disposal via Sales Order were conceived on business scenarios for testing, documentation and training for both internal and external consultants. 
+Gustavo Pisani 										       Page Three
+
+Supply Chain Leader, Austin,TX, 11/2012 - 3/2014
+* Providing Supply Chain leadership to the Asset (Bakken) while in high gear (120 wells per year) and developing the Supply Chain discipline at the same time. Mentoring and leading on company values while developing local talent not familiar with E&P or SAP MM/PM/PS during a ramp up production period – up to 60k bopd. 
+* Leading the local development and plan for rolling out of the US OCTG category commercial strategy - $100M - with the Global Steel Category Manager –Norway including spend review, market intelligence, interviews with key players, risk and containment, should cost model, strategic road map on a category management plan. Applying proprietary CM methodology, knowing state of the art manufacturing processes and developing extensive knowledge of the market were key outcome of the exercise.
+* Leading the OCTG standard technical review for Onshore by aligning legacy specifications with active engagement of Mills, Distributors, Users, and the global Category Manager & QA/QC Lead from Norway.
+* Negotiating commercial terms with vendors to allow operations continuity when the SAP Project transition impacted the days to pay invoices. Business continuity and reputation was kept during critical times.
+* Developing small and remote vendors into the Statoil Value Book and guided them through the new Supply Chain process (e-commerce, ADP) on an over $1bn Supply Chain. Reputation and recognition reached top levels for a new operation after transition from legacy owner to new one.
+
+ConocoPhillips, Houston,TX							 	      2001 - 2012
+Procurement Specialist – Gulf Coast Lower 48, 	11/2011 to 11/2012
+* Providing supply chain and project management expertise to both development engineering team and retrofitting equipment team to support the increasing needs to develop the Eagle Ford brown field. Assisting in the development of scope of work, wording and specific clauses required by the risk structure and participating in peer reviews of contracting strategies for other categories. 
+* Developing, executing and improving the commercial strategy to ensure line pipe availability under competitive terms and supply chain visibility for a $100M per year spend for the infrastructure required for a development oil project under a stocking program involving demand forecasting, mill rolling plan, transport, coating and inspection for the DOT compliant pipeline construction (350 mi). Additional commercial strategies for relevant categories developed, including first ever onshore telemedicine contract negotiated with an innovative approach and cost containment results. Similar results to the category management activity above
+* Supporting a Fast track development of the Eagle Ford Unconventional Project ($1.2bn) allowing a ramp up in production from 5k bpd to 75k bpd in over a year in key categories –tubular & capital equipment - with outstanding results (cost, availability).
+
+Project & Performance Business Analyst, Bartlesville,OK, 07/2007 - 11/2011
+* Providing metrics and analytics to monitor and improve a global P2P process by identifying savings, improvements and business risks/opportunities by category and providing leadership in direction and sense of urgency for chasing value in a global Supply Chain worth $ 20bn per year to an audience of managers (100K PO’s, $ 850M per year), reporting, creating ad hoc queries, running benchmarking exercises (Hackett) and the person to go to for extracting data from SAP and Business Intelligence (BI) and converting it into information and analytical. Data delivery model innovated on unseen Access/Excel/Share Point integration
+* Bringing an executing a top-level vision to a newly created Business Analyst position for a recently formed Procurement Leveraged Center, with energy, determination and expertise to become the internal consultant for the Department in Performance Management using a Netweaver/BI dashboard and creating a web delivered procurement data distribution service as an effective tool in supporting the Department quality goals. Decisions, visibility and trust came to support the nascent unit.
+
+
+Gustavo Pisani 									 	         Page Four
+
+ADDITIONAL POSITIONS HELD AT CONOCOPHILLIPS
+
+Supply Chain Coordinator, Latin America - Venezuela
+Material System Consultant, Venezuela 
+
+ADDITIONAL RELEVANT EXPERIENCE
+CitiusTech
+Founder Entrepreneur - Venezuela
+
+Shell Venezuela
+Program Senior Buyer – Venezuela
+
+Guasare Coal Mine
+Supply Agreement Senior Buyer - Venezuela
+
+Resilin Petrochemical
+Head of Raw Material Procurement – Venezuela
+
+EDUCATION
+
+Master’s  Certificate in Supply Chain (MBA)
+University of San Francisco, California 
+
+Bachelor of Science (BS), Mechanical Engineering
+University Central, Caracas, Venezuela
+
+Elements of Artificial Intelligence
+University of Helsinki, Finland
