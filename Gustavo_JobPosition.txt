@@ -1,0 +1,23 @@
+DATA SCIENTIST AND SUPPLY CHAIN SPECIALIST
+
+A Data Scientist and Supply Chain domain expert sharing a vision of digital transformation, building capacities, workflows, and leading organizations to advance in the changing technological landscape toward a data-based management model. Degrees and certifications in AI, Mechanical Engineering, SAP Materials Management Consultant, and ISO Lead Auditor. Capacities in Azure, Foundry, Dataiku, SAP Cloud Appliance Library, provision of resources, stream analytics, IoT Hub, and Power BI insights visualization and distribution. A polyglot Digital and Data Diplomacy expert inspiring teams from data provision to data consumption on virtual infrastructures where workflows create value in a sustainable way.
+ISO 9000 Lean Management, ISO C9X, ISO/IEC 20000-1 SMS.
+
+KEY SKILLS
+
+* Highly specialized freelance author
+* Responsible for data strategy implementation
+* Collaborative leader and team member in digital transformation efforts
+* Innovating in conception, design, testing, sourcing, compliance, contracting and safe operation of an International relief supply chain
+* Negotiating commercial terms with vendors
+* Providing metrics and analytics to monitor and improve a global P2P process
+* Responsible for Materials Management Data provision, ingestion, transformation, and delivery via Data Gateways on virtual infrastructures connecting source to consumers, supporting BP vision to become a digital leader. 
+* Leading data science-based projects starting with a diverse set of problem framing such as Zero Inventory Mindset, Material Service Improvement, and International Trade Regulations initiatives to quickly align team members. 
+* Responsible for data strategy implementation, integration with Category Data and testing, i.e. Data Lake, Azure SQL DB direct query, Gateway while building capacities with a global training program developed in my spare time called “Python from scratch” aimed to close the digital gap.
+* Solving technological and process problems by aligning resources to new tools with unprecedent solutions, resulting in automated workflows with a clear roadmap to continue evolution to model training and AI supported products.
+* Actively pursuing full reporting automation, AI based materials positive identification, and data twin alignment with digital supply chain, XR applications while providing internal support to a diverse stakeholder audience.
+* Responsible for Big Data vision in Inventory Management, supporting BP global regions on Inventory Management data requirements, from modelling, querying and extraction to emergency material requests per current Zero Inventory mindset resulting in consistent double percent digit reduction few years in a row. 
+* Responsible for data strategy implementation, integration with Category Data and testing, i.e. Data Lake, Azure SQL DB direct query, Gateway, active participation on IM discipline calls on data topics.
+* Creativity and problem solving via technological tools such as Job Scheduling, mock up on Spotfire, Report automation on Business Object and Power BI data models with emphasis in Supply Chain digitization while leveraging available functionality not used before.
+* Actively pursuing report auto generation and scheduled distribution based on data streaming for delivery to a leadership audience on available IT platforms, including mobiles.
+
